@@ -1,0 +1,81 @@
+[
+    {
+        "topic": "Social Network",
+        "elements": [
+            {
+                "name": "Facebook",
+                "image": "Facebook_Logo.png",
+                "app_url": "fb://page/",
+                "web_url": "https://www.facebook.com/"
+            },
+            {
+                "name": "Twitter",
+                "image": "tw_logo.png",
+                "app_url": "",
+                "web_url": "https://twitter.com/"
+            },
+            {
+                "name": "Youtube",
+                "image": "yt_logo.png",
+                "app_url": "",
+                "web_url": "https://youtube.com/"
+            },
+            {
+                "name": "Tiktok",
+                "image": "tiktok_logo.png",
+                "app_url": "",
+                "web_url": "https://tiktok.com/"
+            },
+            {
+                "name": "Twitch",
+                "image": "twitch_logo.png",
+                "app_url": "",
+                "web_url": "https://twitch.tv/"
+            }
+        ]
+    },
+    {
+        "topic": "Contact",
+        "elements": [
+            {
+                "name": "SMS",
+                "image": "sms.png",
+                "app_url": "sms",
+                "web_url": "",
+                "example": "sms:191?body=hello there"
+            },
+            {
+                "name": "Phone",
+                "image": "phone.png",
+                "app_url": "",
+                "web_url": "",
+                "example": "tel:2125551212"
+            },
+            {
+                "name": "Email",
+                "image": "email.png",
+                "app_url": "",
+                "web_url": "",
+                "example": "mailto::2125551212"
+            },
+            {
+                "name": "WiFi",
+                "image": "wifi.png",
+                "app_url": "",
+                "web_url": "",
+                "example": ""
+            }
+        ]
+    },
+    {
+        "topic": "Others",
+        "elements": [
+            {
+                "name": "Link",
+                "image": "network.png",
+                "app_url": "",
+                "web_url": ""
+            }
+        ]
+    }
+]
